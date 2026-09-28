@@ -1,0 +1,111 @@
+{
+  "slug": "radioclear",
+  "box": 92,
+  "date": "2026-10-05",
+  "title": "RadioClear",
+  "question": "How does a radio work?",
+  "hook": "A radio pulls one voice out of an invisible sea of waves, using a coil, a capacitor and a diode. Open up a 1970s transistor set, shake charges into radio waves, play with AM and FM, tune a circuit into resonance and follow a signal through a superhet.",
+  "thumbText": "HOW A RADIO WORKS",
+  "field": "internet",
+  "minutes": 15,
+  "tags": [
+    "radio",
+    "transistor radio",
+    "radio waves",
+    "AM",
+    "FM",
+    "modulation",
+    "tuning",
+    "resonance",
+    "superheterodyne",
+    "crystal radio",
+    "ionosphere",
+    "All India Radio",
+    "Akashvani",
+    "India",
+    "three.js"
+  ],
+  "explainer": [
+    {
+      "title": "A few parts, no computer",
+      "text": "A classic transistor radio is a ferrite rod antenna, a gang tuning capacitor, IF transformer cans, six or seven transistors, a detector diode, a speaker and four D cells (6 V). A modern radio can be one DSP chip that does the same jobs with arithmetic."
+    },
+    {
+      "title": "Waves of electric and magnetic field",
+      "text": "Charges surging up and down an antenna send out linked electric and magnetic ripples at 300,000 km/s. Wavelength is c / f: AIR's medium-wave band, 531 to 1,602 kHz in 9 kHz steps, has waves 190 to 560 m long. By day the ionosphere's D layer soaks up medium waves; at night they bounce off the E layer a thousand kilometres away."
+    },
+    {
+      "title": "A voice rides a carrier",
+      "text": "AM changes the carrier's size, so its envelope traces the sound and it fits in a 9 kHz channel. FM swings the frequency by up to ±75 kHz and needs about 180 kHz, but its receiver ignores the size of the wave, so most static vanishes."
+    },
+    {
+      "title": "Tuning is resonance",
+      "text": "A coil and a capacitor ring at f = 1 / (2π√LC). With a 230 µH coil, 40 to 400 pF tunes the whole medium-wave band. The peak is about f / Q wide, and one tuned circuit alone lets a neighbouring station leak in."
+    },
+    {
+      "title": "The superheterodyne",
+      "text": "A local oscillator runs 455 kHz above the station (10.7 MHz for FM). The mixer's difference frequency is always the same, so sharp fixed filters and most of the gain work identically on every station. A diode and capacitor then follow the envelope to recover the sound. A crystal set does it with no battery at all."
+    },
+    {
+      "title": "Radio in India",
+      "text": "Akashvani reaches about 99% of Indians in 23 languages. Medium wave carries IMD cyclone bulletins far out to sea, ham operators kept the Andamans in touch after the 2004 tsunami, and hundreds of 100-watt community stations serve villages about 12 km around."
+    }
+  ],
+  "concepts": [
+    {
+      "term": "Radio wave",
+      "def": "Linked electric and magnetic ripples moving at the speed of light, with wavelengths from millimetres to kilometres."
+    },
+    {
+      "term": "Wavelength",
+      "def": "The length of one wave, λ = c / f: 366 m at 819 kHz, about 3 m for FM."
+    },
+    {
+      "term": "Carrier",
+      "def": "The steady high-frequency wave a station sends, which the sound then modulates."
+    },
+    {
+      "term": "AM and FM",
+      "def": "Amplitude modulation changes the carrier's size; frequency modulation changes its frequency."
+    },
+    {
+      "term": "Sideband",
+      "def": "The extra frequencies either side of the carrier that the modulation creates."
+    },
+    {
+      "term": "Resonance",
+      "def": "A tuned circuit's big response at its own frequency, f = 1 / (2π√LC)."
+    },
+    {
+      "term": "Q factor",
+      "def": "How sharp a resonance is; the peak is about f / Q wide."
+    },
+    {
+      "term": "Intermediate frequency",
+      "def": "The fixed frequency a superhet shifts every station to: 455 kHz for AM, 10.7 MHz for FM."
+    },
+    {
+      "term": "Ionosphere",
+      "def": "Charged layers of the upper air, 60 to 500 km up, that absorb or reflect radio waves."
+    }
+  ],
+  "links": {},
+  "storage": [
+    {
+      "key": "radioclear.v1",
+      "what": "Which chapters you have opened, your best quiz scores, and sound on or off."
+    }
+  ],
+  "credits": [
+    {
+      "name": "three.js",
+      "license": "MIT",
+      "url": "https://threejs.org"
+    },
+    {
+      "name": "Geist, Instrument Serif",
+      "license": "SIL OFL 1.1",
+      "url": "https://openfontlicense.org"
+    }
+  ]
+}

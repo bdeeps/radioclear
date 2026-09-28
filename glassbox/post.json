@@ -1,0 +1,126 @@
+{
+  "slug": "radioclear",
+  "box": 92,
+  "question": "How does a radio work?",
+  "url": "https://glassbox-production-fd52.up.railway.app/e/radioclear/",
+  "app": "https://glassbox-production-fd52.up.railway.app/radioclear/",
+  "assets": {
+    "reel": "reel.mp4",
+    "video": "video.mp4",
+    "cover": "cover.jpg",
+    "thumb": "thumb.jpg",
+    "still": "still.jpg",
+    "historyReel": "history-reel.mp4",
+    "historySlides": [
+      "history-slide-1.jpg",
+      "history-slide-2.jpg",
+      "history-slide-3.jpg",
+      "history-slide-4.jpg",
+      "history-slide-5.jpg",
+      "history-slide-6.jpg",
+      "history-slide-7.jpg",
+      "history-slide-8.jpg",
+      "history-slide-9.jpg",
+      "history-slide-10.jpg"
+    ],
+    "slides": [
+      "slide-1.jpg",
+      "slide-2.jpg",
+      "slide-3.jpg",
+      "slide-4.jpg",
+      "slide-5.jpg",
+      "slide-6.jpg",
+      "slide-7.jpg",
+      "slide-8.jpg",
+      "slide-9.jpg",
+      "slide-10.jpg"
+    ]
+  },
+  "captions": {
+    "history": {
+      "instagram": "From a set of equations in 1865 to a voice from the sky in almost every Indian home.\n\n1865: Maxwell predicts electromagnetic waves\n1887: Hertz makes and detects radio waves\n1895: Bose sends millimetre waves through walls in Calcutta\n1901: A signal crosses the Atlantic\n1906: Fessenden's Christmas Eve broadcast\n1918: The superheterodyne\n\nThe full story, with 30 moments, sources and charts: glassbox-production-fd52.up.railway.app/e/radioclear/history (link in bio)\n\nThen play with how it works: glassbox-production-fd52.up.railway.app/radioclear\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #radio #transistorradio #radiowaves #am #fm #modulation #history",
+      "youtube": {
+        "title": "The history of radio in 45 seconds #shorts",
+        "description": "From a set of equations in 1865 to a voice from the sky in almost every Indian home.\n\n1865 · Maxwell predicts electromagnetic waves (James Clerk Maxwell)\n1887 · Hertz makes and detects radio waves (Heinrich Hertz)\n1895 · Bose sends millimetre waves through walls in Calcutta (Jagadish Chandra Bose)\n1901 · A signal crosses the Atlantic (Guglielmo Marconi)\n1906 · Fessenden's Christmas Eve broadcast (Reginald Fessenden)\n1918 · The superheterodyne (Edwin Howard Armstrong)\n\n▶ Full history: https://glassbox-production-fd52.up.railway.app/e/radioclear/history/\n▶ Play with it: https://glassbox-production-fd52.up.railway.app/e/radioclear/\n\n#glassbox #howitworks #explained #history"
+      }
+    },
+    "instagram": "How does a radio work?\n\nA radio pulls one voice out of an invisible sea of waves, using a coil, a capacitor and a diode. Open up a 1970s transistor set, shake charges into radio waves, play with AM and FM, tune a circuit into resonance and follow a signal through a superhet.\n\n→ The household transistor radio: a ferrite rod, a tuning capacitor, a few transistors and a speaker.\n→ Turn the knob and the capacitor plates slide together, tuning in a different station.\n→ A radio wave is electric and magnetic fields rippling out at the speed of light.\n→ By day the D layer swallows medium waves; at night they bounce off the sky, far away.\n→ AM: the voice changes the size of the carrier wave. Static shows up as crackle.\n\nPlay with it yourself. It's free and open source: glassbox-production-fd52.up.railway.app/radioclear (link in bio)\n\nBox No. 092 of 365. Follow @glassbox.how for a new \"how it works\" every day.\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #radio #transistorradio #radiowaves #am #fm #modulation #tuning #resonance #superheterodyne",
+    "carousel": "Swipe through: How does a radio work?\n\nA radio pulls one voice out of an invisible sea of waves, using a coil, a capacitor and a diode. Open up a 1970s transistor set, shake charges into radio waves, play with AM and FM, tune a circuit into resonance and follow a signal through a superhet.\n\nSave this for later, then play with the interactive version at glassbox-production-fd52.up.railway.app/radioclear (link in bio).\n\nBox No. 092 · @glassbox.how\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #radio #transistorradio #radiowaves #am #fm #modulation",
+    "youtube": {
+      "title": "How does a radio work? #shorts",
+      "description": "A radio pulls one voice out of an invisible sea of waves, using a coil, a capacitor and a diode. Open up a 1970s transistor set, shake charges into radio waves, play with AM and FM, tune a circuit into resonance and follow a signal through a superhet.\n\n▶ Play with it: https://glassbox-production-fd52.up.railway.app/e/radioclear/\n⌘ Source code (MIT): https://github.com/bdeeps/radioclear\n\nBox No. 092 of 365 from Glassbox: one open-source interactive explainer every day.\n\n#glassbox #howitworks #explained"
+    },
+    "youtubeLong": {
+      "title": "How does a radio work? (interactive explainer)",
+      "description": "A radio pulls one voice out of an invisible sea of waves, using a coil, a capacitor and a diode. Open up a 1970s transistor set, shake charges into radio waves, play with AM and FM, tune a circuit into resonance and follow a signal through a superhet.\n\n▶ Play with the interactive version: https://glassbox-production-fd52.up.railway.app/e/radioclear/\n⌘ Source code (MIT): https://github.com/bdeeps/radioclear\n\nIn this video:\n• A few parts, no computer. A classic transistor radio is a ferrite rod antenna, a gang tuning capacitor, IF transformer cans, six or seven transistors, a detector diode, a speaker and four D cells (6 V).\n• Waves of electric and magnetic field. Charges surging up and down an antenna send out linked electric and magnetic ripples at 300,000 km/s.\n• A voice rides a carrier. AM changes the carrier's size, so its envelope traces the sound and it fits in a 9 kHz channel.\n• Tuning is resonance. A coil and a capacitor ring at f = 1 / (2π√LC).\n• The superheterodyne. A local oscillator runs 455 kHz above the station (10.7 MHz for FM).\n• Radio in India. Akashvani reaches about 99% of Indians in 23 languages.\n\nGlassbox opens one box a day: an interactive model of how something works, plus the code behind it.\n\n#glassbox #howitworks #explained #learnoninstagram #stem"
+    },
+    "short": "How does a radio work?\n\nA radio pulls one voice out of an invisible sea of waves, using a coil, a capacitor and a diode.\n\nPlay with it: https://glassbox-production-fd52.up.railway.app/e/radioclear/",
+    "linkedin": "How does a radio work?\n\nA radio pulls one voice out of an invisible sea of waves, using a coil, a capacitor and a diode. Open up a 1970s transistor set, shake charges into radio waves, play with AM and FM, tune a circuit into resonance and follow a signal through a superhet.\n\n1. A few parts, no computer\n2. Waves of electric and magnetic field\n3. A voice rides a carrier\n4. Tuning is resonance\n5. The superheterodyne\n6. Radio in India\n\nI built an interactive, open-source explainer so you can pull the levers yourself. It's box No. 092 in my one-a-day project, Glassbox.\n\nTry it: https://glassbox-production-fd52.up.railway.app/e/radioclear/\nCode: https://github.com/bdeeps/radioclear\n\n#glassbox #howitworks #explained #learnoninstagram #stem"
+  },
+  "schedule": {
+    "at": "2026-09-28T13:00:00.000Z"
+  },
+  "targets": [
+    {
+      "service": "instagram",
+      "kind": "reel",
+      "enabled": true
+    },
+    {
+      "service": "instagram",
+      "kind": "carousel",
+      "offsetHours": 4,
+      "enabled": true
+    },
+    {
+      "service": "youtube",
+      "kind": "short",
+      "enabled": true
+    },
+    {
+      "service": "youtube",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "linkedin",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "twitter",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "threads",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "tiktok",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "instagram",
+      "kind": "history-reel",
+      "offsetHours": 2,
+      "enabled": false
+    },
+    {
+      "service": "youtube",
+      "kind": "history-short",
+      "offsetHours": 2,
+      "enabled": false
+    },
+    {
+      "service": "instagram",
+      "kind": "history-carousel",
+      "offsetHours": 6,
+      "enabled": false
+    }
+  ],
+  "thumbnailOffsetMs": 1200,
+  "updatedAt": "2026-09-28T11:57:54.490Z"
+}
